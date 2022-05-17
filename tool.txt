@@ -1,5 +1,4 @@
 driver
-drill
-hammer
-nail
+nuts
+shell
 screw
