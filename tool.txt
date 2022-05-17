@@ -1,4 +1,0 @@
-driver
-drill
-hammer
-nail
